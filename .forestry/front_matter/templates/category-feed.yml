@@ -5,7 +5,7 @@ fields:
   name: category
   label: Category
   config:
-    required: true
+    required: false
 - type: text
   name: title
   label: Title
@@ -16,5 +16,5 @@ fields:
     min: '1'
     max: '8'
     step: '1'
-    required: true
+    required: false
   default: '3'
