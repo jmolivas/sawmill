@@ -1,5 +1,6 @@
 ---
 pages:
+- post/test.md
 - post/demo.md
 hide_body: true
 fields:
