@@ -21,3 +21,12 @@ fields:
   - call-to-action
   - hero
   - section-heading
+- type: list
+  name: choose_from_data_file
+  label: Choose from data file
+  config:
+    use_select: true
+    source:
+      type: datafiles
+      file: fruit-json
+      path: Fruit
