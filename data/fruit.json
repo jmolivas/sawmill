@@ -1,5 +1,7 @@
-"Fruit": {
-    "Apples": 2,
-    "Bananas": 5,
-    "Kiwis": 11
+{
+    "Fruit": {
+        "Apples": 2,
+        "Bananas": 5,
+        "Kiwis": 11
   }
+}
