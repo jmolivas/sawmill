@@ -1,10 +1,14 @@
 [
   {
-    name: "blogging",
-    count: 18
+    "name": "Apples",
+    "count": 18
   },
   {
-    name: "security",
-    count: 3
+    "name": "Bananas",
+    "count": 11
+  },
+  {
+    "name": "Oranges",
+    "count": 3
   }
 ]
