@@ -1,14 +1,14 @@
-[
-  {
-    "name": "Apples",
-    "count": 18
-  },
-  {
-    "name": "Bananas",
-    "count": 11
-  },
-  {
-    "name": "Oranges",
-    "count": 3
-  }
+[  
+   {  
+      "name":"Apples",
+      "count":18
+   },
+   {  
+      "name":"Bananas",
+      "count":11
+   },
+   {  
+      "name":"Oranges",
+      "count":3
+   }
 ]
