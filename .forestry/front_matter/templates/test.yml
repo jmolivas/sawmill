@@ -4,6 +4,12 @@ pages:
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  name: title
+  label: Title
+- type: text
+  name: description
+  label: Description
 - type: field_group
   fields:
   - type: text
