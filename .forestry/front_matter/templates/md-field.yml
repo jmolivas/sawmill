@@ -3,13 +3,6 @@ hide_body: false
 is_partial: true
 fields:
 - type: textarea
-  name: test
-  label: test
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
-- type: textarea
   config:
     wysiwyg: true
     schema:
@@ -17,3 +10,10 @@ fields:
   label: Description
   name: description
   default: "<p></p>"
+- type: textarea
+  name: test
+  label: test
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
