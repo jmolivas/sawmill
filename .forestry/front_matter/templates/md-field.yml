@@ -3,14 +3,6 @@ hide_body: false
 is_partial: true
 fields:
 - type: textarea
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-  label: Description
-  name: description
-  default: "<p></p>"
-- type: textarea
   name: test
   label: test
   config:
