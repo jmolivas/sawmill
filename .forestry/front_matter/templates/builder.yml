@@ -16,6 +16,7 @@ fields:
   label: Blocks
   name: blocks
   template_types:
+  - md-field
   - pull-quote
   - category-feed
   - body-copy-w-image
