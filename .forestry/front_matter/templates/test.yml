@@ -1,0 +1,36 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: text
+  name: description
+  label: Description
+- type: field_group
+  fields:
+  - type: text
+    name: headline
+    label: Tagline
+  - type: file
+    name: social_image
+    label: Social Image
+  - type: field_group
+    name: facebook
+    label: Facebook
+    fields:
+    - type: text
+      name: headline
+      label: Headline
+    - type: text
+      name: description
+      label: Description
+    - type: field_group
+      name: images
+      label: Images
+  - type: field_group
+    name: twitter
+    label: Twitter
+  label: SEO
+  name: seo

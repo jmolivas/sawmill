@@ -1,0 +1,11 @@
+---
+hide_body: false
+is_partial: true
+fields:
+- type: textarea
+  name: test
+  label: test
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown

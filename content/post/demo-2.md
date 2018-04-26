@@ -1,7 +1,8 @@
 +++
-date = "2018-04-06T20:11:36Z"
-title = "A Test Post"
-description = "This is a test post"
 categories = "Development"
+date = "2018-04-06T20:11:36Z"
+description = "This is a test post"
+title = "A Test Post"
+
 +++
-Lorem Ipsum Dolor Sit Amet
+Lorem Ipsum Dolor Sit Amet/
